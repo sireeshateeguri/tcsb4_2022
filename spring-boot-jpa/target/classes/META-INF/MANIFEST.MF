@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: sfjbs
+Build-Jdk: 17.0.2
+Implementation-Title: spring-boot-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-jp
+ a/
+Created-By: Maven Integration for Eclipse
+
